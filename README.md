@@ -1,5 +1,7 @@
-I decided to make my own 
+
 # Product Management System 
+This is basically a school project but i decided to explore and make my own.
+
  It's engineered to manage and track products, featuring editing, deletion,
  product history views, and PDF report printing. It also provides cool 
  analytics graphs for data visualization.
